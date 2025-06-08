@@ -1,0 +1,22 @@
+{
+	"name": "Llama",
+	"short_name": "Llama",
+	"lang": "en-US",
+	"start_url": "https://lrusso.github.io/Llama/Llama.htm",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#FFFFFF",
+	"background_color": "#FFFFFF",
+	"icons": [
+		{
+			"src": "https://lrusso.github.io/Llama/LlamaFavIcon_192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://lrusso.github.io/Llama/LlamaFavIcon_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
